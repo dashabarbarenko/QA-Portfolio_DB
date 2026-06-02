@@ -6,7 +6,7 @@ My QA portfolio featuring bug reports, testing practice, and anonymized game tes
 
 ---
 
-# Project 1: > <a href="https://github.com/dashabarbarenko/QA-Portfolio_DB/blob/main/Bug-Reports/Game-QA-Bug-Reports.md">Testing a Mobile Simulation / Sandbox Game (Anonymized Project)</a>
+# Project 1: Testing a Mobile Simulation / Sandbox Game (Anonymized Project)
 
 **Project link:**  
 > <a href="https://github.com/dashabarbarenko/QA-Portfolio_DB/blob/main/Bug-Reports/Game-QA-Bug-Reports.md">Testing a Mobile Simulation / Sandbox Game (Anonymized Project)</a>
